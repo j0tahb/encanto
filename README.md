@@ -1,1 +1,1 @@
-https://github.com/j0tahb/encanto
+https://j0tahb.github.io/encanto/
