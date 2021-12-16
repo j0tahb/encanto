@@ -1,0 +1,118 @@
+html {
+    font-family: 'Abel', sans-serif;
+  }
+
+.cor-cabeça {
+    background-color: black;
+}
+
+
+section.principal {
+    background-image: url("../img/principal (1).jpg");
+    height: 860px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    padding-top: 32rem;
+    
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    color: white;
+
+}
+
+section.principal h4 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+.logo {
+    width: 200px;
+}
+
+.white {
+    filter: brightness(0) invert(1);
+}
+
+.img-capa {
+    width: 500px;
+}
+
+section.informacoes h1, h2, h3, h4, h5, h6{
+    font-family:  'Abel', sans-serif;
+}
+
+.social-icon {
+    width: 40px;
+}
+
+section.ingressos1 {
+    background-image: url("../img/ingressos1.jpg");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    padding-top: 9rem;
+    
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    color: white;
+
+}
+
+section.ingressos1 h1, h2, h3, h4, h5, h6{
+    font-family:  'Abel', sans-serif;
+}
+
+section.videos {
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    color: black;
+}
+
+section.ingressos2 {
+    background-image: url("../img/ingressos2.jpg");
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    padding-top: 9rem;
+    
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    color: white;
+
+}
+
+section.ingressos2 h1, h2, h3, h4, h5, h6{
+    font-family:  'Abel', sans-serif;
+}
+
+section.trilha-sonora {
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+}
+
+section.trilha-sonora h1, h2, h3, h4, h5, h6{
+    font-family:  'Abel', sans-serif;
+}
+
+.album-cover {
+    height: 35rem;
+}
+
+.trailer-div-space {
+    padding-top: 130px;
+}
+
+
+
+.footer {
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    background-color: black;
+    color: white;
+}
